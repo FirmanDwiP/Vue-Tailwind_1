@@ -1,4 +1,5 @@
-# tailwind-first
+# Tailwind-first
+Learn from [Program with Erik](https://www.youtube.com/watch?v=MNkjaPCY7NA&t=491s)
 
 ## Project setup
 ```
